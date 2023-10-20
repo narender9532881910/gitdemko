@@ -1,0 +1,2 @@
+# gitdemko
+for git prectics
