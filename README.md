@@ -1,2 +1,2 @@
 # gitdemko
-for git prectics
+for git prectics gyus
